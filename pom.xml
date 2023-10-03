@@ -51,9 +51,9 @@
     <jdk.min.version>1.8</jdk.min.version>
 
     <sonar.version>6.7.1</sonar.version>
-    <sonar-java.version>5.2.0.13398</sonar-java.version>
+    <sonar-java.version>6.0.0.20538</sonar-java.version>
     <fbcontrib.version>7.4.3.sb</fbcontrib.version>
-    <findsecbugs.version>1.8.0</findsecbugs.version>
+    <findsecbugs.version>1.9.0</findsecbugs.version>
 
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 
@@ -86,7 +86,7 @@
     <dependency>
       <groupId>org.sonarsource.sslr-squid-bridge</groupId>
       <artifactId>sslr-squid-bridge</artifactId>
-      <version>2.6.1</version>
+      <version>2.7.0.377</version>
       <exclusions>
         <exclusion>
           <groupId>org.codehaus.sonar</groupId>
